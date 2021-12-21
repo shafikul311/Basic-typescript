@@ -1,5 +1,5 @@
 let hello: string;
-hello = "hello world";
+hello = "hello Typescript";
 console.log(hello)
 
 
@@ -11,7 +11,7 @@ function myself(name: string, age:number, education: string) {
     return `my name is ${name} and ${age} my last education is ${education}`;
 }
 
-const aboutMe = myself("shafikul", 23, "Bsc CSE not Completed Yet")
+const aboutMe = myself("shafikul", 23, "Bsc CSE Not Completed Yet")
 
 console.log(aboutMe)
 

@@ -1,0 +1,1 @@
+let employeeDetails: [number, string, boolean] = [24 , 'shafikul', true]
