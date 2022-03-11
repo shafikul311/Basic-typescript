@@ -1,4 +1,4 @@
-<h1>Typescript learning </h1>
+<h1>Typescript learning for beginner </h1>
 
 <p> npm install -g typescript   [install typescript glovally]</p>
 <p> tsc -v   [to chexque ts version]</p>
