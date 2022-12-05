@@ -5,7 +5,5 @@
 <p> npm install typescript --save-dev [add local project dev dependency]</p>
 <p> tsc --init    [to generate typescript config.json file]</p>
 <p> tsc -w  ["watch mode"]</p>
-```
-"include": ["src"]
-```
+
 <p></p>
