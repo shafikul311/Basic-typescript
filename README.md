@@ -1,4 +1,4 @@
-# Typescript learning for beginner
+# Basic Typescript for beginner
 
 
 ## Install for beginner Typescript learner
