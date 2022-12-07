@@ -1,10 +1,10 @@
 "use strict";
 // basic typescript learning
-// function addNumber(a:number, b:number){
-//     return a + b;
-// }
-// const sum =  addNumber(10, 30);
-// console.log( 'two number sum ' + sum)
+function addNumber(a, b) {
+    return a + b;
+}
+const sum = addNumber(10, 30);
+console.log('two number sum ' + sum);
 // object typescript 
 let employee;
 employee = {
@@ -24,4 +24,27 @@ console.log(employee1, employee1.length);
 // void
 const sayHi = () => console.log('hi');
 let speech = sayHi();
-console.log(speech); //Output: undefined
+// console.log(speech); //Output: undefined
+// -----------------------------
+// boolean
+let taskComplete = false;
+// string 
+let userName = 'Shafikul Islam';
+// number
+let age = 25;
+console.log(age);
+// array
+let ages = [20, 21, 25, 27, 26];
+let age1 = [20, 21, 25, 27, 26];
+const person = {
+    name: 'John',
+    age: 25,
+    alive: true,
+};
+console.log(person);
+// tuple
+var empId = 1;
+var empName = "Steve";
+// Tuple type variable 
+var employees = [1, "Steve"];
+console.log(employees);
