@@ -1,7 +1,7 @@
 # Basic Typescript for beginner
 
 
-## Install for beginner learner
+## Install for beginner Typescript-learner
 
 ```bash
    npm install -g typescript [install typescript glovally]
